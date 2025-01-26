@@ -1,0 +1,33 @@
+[
+	{
+		"artist": "MILI",
+		"songs": [
+			{
+				"url": "https://www.youtube.com/watch?v=nOj_A3aZxGs",
+				"name": "String Theocracy"
+			},
+			{
+				"url": "https://www.youtube.com/watch?v=XmaZv4RuzY8",
+				"name": "A Turtle's Heart"
+			}
+		]
+	},
+	{
+		"artist": "Kanaria",
+		"songs": [
+			{
+				"url": "https://www.youtube.com/watch?v=h4HkXR3NSI4",
+				"name": "BRAIN"
+			}
+		]
+	},
+	{
+		"artist": "x0o0x_",
+		"songs": [
+			{
+				"url": "https://music.youtube.com/watch?v=1l0en64LOJE",
+				"name": "ハッピー内蔵ケーキ"
+			}
+		]
+	}
+]
