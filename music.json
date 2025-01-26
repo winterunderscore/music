@@ -9,6 +9,10 @@
       {
         "url": "https://www.youtube.com/watch?v=XmaZv4RuzY8",
         "name": "A Turtle's Heart"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=Dca9gJyjoAg",
+        "name": "Salt, Pepper, Birds, and the Thought Police"
       }
     ]
   },
@@ -39,6 +43,57 @@
       {
         "url": "https://music.youtube.com/watch?v=ulbqvN5PJF0",
         "name": "______"
+      }
+    ]
+  },
+  {
+    "artist": "Ado",
+    "songs": [
+      {
+        "url": "https://music.youtube.com/watch?v=GtPLYvYeZ_4",
+        "name": "うっせぇわ"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=Dt0CYNAYfNY",
+        "name": "ぎらぎら"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=YAKXTbuL6uI",
+        "name": "阿修羅ちゃん"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=eHTeP9QQ_fs",
+        "name": "レディメイド"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=rshsPe_Uu68",
+        "name": "MIRROR"
+      }
+    ]
+  },
+  {
+    "artist": "YOASOBI",
+    "songs": [
+      {
+        "url": "https://music.youtube.com/watch?v=8iuLXODzL04",
+        "name": "たぶん"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=by4SYYWlhEs",
+        "name": "夜に駆ける"
+      }
+    ]
+  },
+  {
+    "artist": "Yorushika",
+    "songs": [
+      {
+        "url": "https://music.youtube.com/watch?v=F64yFFnZfkI",
+        "name": "言って。"
+      },
+      {
+        "url": "https://music.youtube.com/watch?v=mUSVav9pKO4",
+        "name": "晴る"
       }
     ]
   }
