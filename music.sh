@@ -24,7 +24,8 @@ do
 			echo "file already exists, skipping: $name by $artist, $url"
 		else
 			echo "downloading $name by $artist, $url"
-			yt-dlp -o "$root$artist/$name" -x "$url"
+#			yt-dlp -o "$root$artist/$name" "$url" -x --embed-metadata --embed-thumbnail --add-metadata --parse-metadata "uploader:%artist%" --parse-metadata "title:%title%" --parse-metadata "upload_date:%(upload_date)[:4]:%date%" --parse-metadata "description:%comment%" --parse-metadata "webpage_url:%www%" -f bestaudio --audio-format opus --audio-quality 320k
+			yt-dlp -o "$root$artist/$name" "$url" -x --embed-metadata --embed-thumbnail --add-metadata -f bestaudio --audio-format opus --audio-quality 320k
 		fi
 	done <<< "$songs"
 done <<< "$artists"
